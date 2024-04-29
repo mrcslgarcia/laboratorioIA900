@@ -2,7 +2,7 @@
 
 ---> Desafio de projeto: Trabalhando com Machine Learning na Prática no Azure ML  <---
 
-ℹ️ Sobre:
+Sobre:
 Consiste na criação de um modelo de previsão com seus devidos pontos de extremidades configurados. Os passos realizados no processo constam neste README e, no arquivo .json, constam os pontos de extremidades.
 
 ✅ Passos realizados:
@@ -17,9 +17,9 @@ Ir para a seção Review + Create e clicar em create.
 
 Dentro do Machine Learning Studio é necessário seguir os passos abaixo para criação do modelo:
 
-[x] No Menu lateral que fica à esquerda clicar em ML automatizado e, em seguida em + Nova tarefa de ML automatizada;
+- No Menu lateral que fica à esquerda clicar em ML automatizado e, em seguida em + Nova tarefa de ML automatizada;
 
-[x] Preencher com as informações fornecidas abaixo:
+- Preencher com as informações fornecidas abaixo:
 
 DEFINIÇÕES BÁSICAS: Tipos de dados
 
@@ -67,5 +67,5 @@ Deixar como default.
 Revisão
 
 Clicar em Submeter tarefa de preparação.
-📖 Referência:
-Para a realização do desafio, utilizei a documentação oficial da Azure Machine Learning que pode ser acessada [clicando aqui](https://github.com/mrcslgarcia/laboratorioIA900/blob/1bbda716ee48ea9e6978c5796498fd5aedbd527b/Machine%20Learning/Introducao-Machine-Learning#L71).
+📖 Referência
+Para a realização do desafio, utilizei a documentação oficial da Azure Machine Learning que pode ser acessada [clicando aqui](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html).
