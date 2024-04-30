@@ -1,13 +1,10 @@
 # Introdução ao Machine Learning IA-900 MICROSOFT
 
-*** ---> Desafio de projeto: Trabalhando com Machine Learning na Prática no Azure ML  <---  ***
+***Desafio de projeto: Trabalhando com Machine Learning na Prática no Azure ML***
 
+## Sobre:Consiste na criação de um modelo de previsão com seus devidos pontos de extremidades configurados. Os passos realizados no processo constam neste README e, no arquivo .json, constam os pontos de extremidades
 
-## Sobre:Consiste na criação de um modelo de previsão com seus devidos pontos de extremidades configurados. Os passos realizados no processo constam neste README e, no arquivo .json, constam os pontos de extremidades.
-
-
-*** ✅ Passos realizados:
-Important
+✅ Passos realizados:
 
  Ter um cadastro na Azure;
  Ao logar na conta, criar um recurso de Machine Learning seguindo as etapas:
@@ -67,7 +64,7 @@ Computador
 Deixar como default.
 Revisão
 
-Clicar em Submeter tarefa de preparação. ***
+Clicar em Submeter tarefa de preparação.
 
 ### 📖 Referência
 
