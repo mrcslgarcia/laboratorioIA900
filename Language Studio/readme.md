@@ -1,1 +1,5 @@
-# https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EV5UYBn9qcFIoNr6YocotJ8BnqhpFl7hR5KEQFqbIn1HQg?e=577iiz
+**O Language Studio da Microsoft é uma plataforma avançada para processamento de linguagem natural (NLP) e geração de texto. Ele oferece uma ampla gama de ferramentas e modelos pré-treinados para tarefas como tradução automática, análise de sentimento, geração de texto e muito mais. O Language Studio é alimentado pela tecnologia de ponta da Microsoft, incluindo modelos de linguagem como Turing-NLG e MT-DNN, que permitem aos desenvolvedores criar aplicativos NLP poderosos com facilidade. Além disso, o Language Studio é integrado com outros serviços da Microsoft, como Azure Cognitive Services e Azure Machine Learning, oferecendo uma solução completa para necessidades de processamento de linguagem natural em escala empresarial.**
+
+# Documentação oficial do curso utilizado [Language Studio](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EV5UYBn9qcFIoNr6YocotJ8BnqhpFl7hR5KEQFqbIn1HQg?e=577iiz)
+
+## Projeto e teste de conhecimento de imagens feito neste projeto - [LAB](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html)
