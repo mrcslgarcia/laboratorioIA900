@@ -4,4 +4,4 @@
 
 # Documentação oficial do curso utilizado [Language Studio & Speech Studio](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EV5UYBn9qcFIoNr6YocotJ8BnqhpFl7hR5KEQFqbIn1HQg?e=577iiz)
 
-## Projeto e teste de conhecimento de imagens feito neste projeto - [LAB Language Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html) & [LAB Speech Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html)
+## Projeto e teste de conhecimento de linguagem e fala neste projeto - [LAB Language Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html) & [LAB Speech Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html)
