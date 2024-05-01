@@ -14,4 +14,4 @@
 
 *Essas sugestões podem incluir trechos de código, comentários, documentação e até mesmo ajudar a resolver problemas de codificação. O COPILOT é integrado diretamente ao ambiente de desenvolvimento, como o Visual Studio Code, permitindo que os desenvolvedores aproveitem as sugestões diretamente em seu fluxo de trabalho.*
 
- ***é importante notar que o COPILOT ainda está em estágio inicial*** *e pode não ser perfeito em todos os cenários. Os desenvolvedores devem revisar e validar as sugestões antes de incorporá-las ao código final, garantindo a qualidade e segurança do software.*
+*No geral, ***é importante notar que o COPILOT ainda está em estágio inicial*** e pode não ser perfeito em todos os cenários. Os desenvolvedores devem revisar e validar as sugestões antes de incorporá-las ao código final, garantindo a qualidade e segurança do software.*
