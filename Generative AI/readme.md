@@ -2,4 +2,4 @@
 
 # Documentação oficial do curso utilizado [IA-GENERATIVA](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/Ef88qA-boB1GuImGg67P-IQBAQP0mfwtVB0RjBnabfvdPw?rtime=d106jfpp3Eg)
 
-## Projeto e teste de conhecimento de OpenAI e COPILOT feito neste projeto - [LAB-AIGENERATIVE](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html) & [LAB-OPENAI](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/13-azure-openai.html) & [lAB-COPILOT](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/14-azure-openai-content-filters.html)
+## Projeto e teste de conhecimento de OpenAI e COPILOT feito neste projeto - [LAB-AIGENERATIVE](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html) & [LAB-OPENAI](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/13-azure-openai.html) & [LAB-COPILOT](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/14-azure-openai-content-filters.html)
