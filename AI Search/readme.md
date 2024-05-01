@@ -2,4 +2,4 @@
 
 # Documentação oficial do curso utilizado [IA SEARCH](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EQwcYO0tKhlNuUCGjUEn3A0BZdug_Ll1ijFcSI5NdWfzkg?e=1jSzi6)
 
-## Projeto e teste de conhecimento de imagens feito neste projeto - [LAB](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html)
+## Projeto e teste de conhecimento de buscas e recolhimento de informação feito neste projeto - [LAB](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html)
